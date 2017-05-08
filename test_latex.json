@@ -21,5 +21,8 @@
 "modParams":{"options":["1 and 5", "3","2, 3 and 4", "All of these points", "None of these points"]}},
 {"modName":"mcq",
 "qnStem":"6. At <b>Point 3</b>, how does the <b>weight</b> of the pendulum bob compare to the <b>tension</b> in the string? <br/><br/>",
-"modParams":{"options":["T = mg","T &gt mg","T &lt mg","not able to tell"]}}
+"modParams":{"options":["T = mg","T &gt mg","T &lt mg","not able to tell"]}},
+{"modName":"picture",
+"qnStem":"Click on x",
+"modParams":{"url":"https://i.ytimg.com/vi/eeR6PM5hCiM/maxresdefault.jpg"}}
 ]

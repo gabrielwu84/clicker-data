@@ -24,5 +24,5 @@
 "modParams":["T = mg","T &gt mg","T &lt mg","not able to tell"]},
 {"modName":"picture",
 "qnStem":"Click on x",
-"modParams":{"imgUrl":"https://i.ytimg.com/vi/eeR6PM5hCiM/maxresdefault.jpg"}}
+"modParams":"https://i.ytimg.com/vi/eeR6PM5hCiM/maxresdefault.jpg"}
 ]

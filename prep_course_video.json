@@ -1,0 +1,14 @@
+[{
+"modName":"video",
+"qnStem":
+{"data":"tap on video when the pendulum is instantaneously stationary"},
+"modParams":"http://mysites.ntu.edu.sg/gabrielwu/Shared%20Documents/pendulum.mp4"
+},
+{
+"modName":"youtube",
+"qnStem":
+{"data":"Bunjee Jump",
+"mathjax":false},
+"modParams":"lYc7kHXW0xg "
+}
+]

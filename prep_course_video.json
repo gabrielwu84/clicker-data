@@ -1,14 +1,43 @@
 [{
+"modName":"null",
+"qnStem":
+{"data":"<p> Instructions: </p> <p> 1. Install app</p> <p>Android - Search for '<a href='https://play.google.com/store/apps/details?id=com.gabrielwu84.youvote' target='_blank'>YouVote</a>' on google play store<br/> iOS - Search for '<a href='https://itunes.apple.com/us/app/youvote-apollos/id1333893087?mt=8' target='_blank'>YouVote Apollos</a>' on appstore </p> <p> 2. Open app and fill in your name</p> <p> 3. Enter the lesson id shown on the top left corner and click enter</p>"},
+"modParams":""
+},
+{
 "modName":"video",
 "qnStem":
-{"data":"tap on video when the pendulum is instantaneously stationary"},
+{"data":"tap on video when the pendulum is stationary."},
+"modParams":"http://mysites.ntu.edu.sg/gabrielwu/Shared%20Documents/pendulum.mp4"
+},
+{
+"modName":"video",
+"qnStem":
+{"data":"tap on video when the pendulum is fastest."},
 "modParams":"http://mysites.ntu.edu.sg/gabrielwu/Shared%20Documents/pendulum.mp4"
 },
 {
 "modName":"youtube",
 "qnStem":
-{"data":"Bunjee Jump",
-"mathjax":false},
+{"data":"Bunjee Jump"},
 "modParams":"lYc7kHXW0xg "
+},
+{
+"modName":"video",
+"qnStem":
+{"data":"tap on video when woman is feeling weightless."},
+"modParams":"http://mysites.ntu.edu.sg/gabrielwu/Shared%20Documents/bunjee.mp4"
+},
+{
+"modName":"youtube",
+"qnStem":
+{"data":"highjump"},
+"modParams":"XBtBdNHBNSI "
+},
+{
+"modName":"video",
+"qnStem":
+{"data":"tap on video when man is accelerating at g."},
+"modParams":"http://mysites.ntu.edu.sg/gabrielwu/Shared%20Documents/highjump.mp4"
 }
 ]
